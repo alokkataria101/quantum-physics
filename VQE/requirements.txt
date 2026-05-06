@@ -1,0 +1,15 @@
+# Core numerical
+numpy>=1.23
+
+# Quantum chemistry
+pyscf>=2.3.0
+
+# Qiskit core + algorithms
+qiskit>=1.0.0
+qiskit-algorithms>=0.3.0
+
+# Qiskit Nature (for chemistry problems)
+qiskit-nature>=0.7.0
+
+# Optional but recommended (better performance / transpilation)
+scipy>=1.10
