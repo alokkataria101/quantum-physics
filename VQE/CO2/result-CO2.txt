@@ -1,0 +1,41 @@
+python3.11 vqe-co2.py
+CO2 Ground State Energy (Hartree):
+-180.4143627077436
+(vqe_env) aloksinghkataria@Aloks-MacBook-Pro CO2 % env
+TERM_SESSION_ID=w0t8p0:8C941733-EB9D-4ABB-9A7A-774811EF38B8
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.LcIhplUic4/Listeners
+LC_TERMINAL_VERSION=3.4.23
+COLORFGBG=7;0
+ITERM_PROFILE=Default
+OSLogRateLimit=64
+XPC_FLAGS=0x0
+LANG=en_IN.UTF-8
+PWD=/Users/aloksinghkataria/dreadnought/osgn-quant-compute/VQE/CO2
+SHELL=/bin/zsh
+__CFBundleIdentifier=com.googlecode.iterm2
+SECURITYSESSIONID=186b5
+TERM_PROGRAM_VERSION=3.4.23
+TERM_PROGRAM=iTerm.app
+PATH=/Users/aloksinghkataria/dreadnought/osgn-quant-compute/VQE/vqe_env/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin
+LC_TERMINAL=iTerm2
+COLORTERM=truecolor
+COMMAND_MODE=unix2003
+TERM=xterm-256color
+HOME=/Users/aloksinghkataria
+TMPDIR=/var/folders/_r/8qmc_s254397808ck60ks9w00000gn/T/
+USER=aloksinghkataria
+XPC_SERVICE_NAME=0
+LOGNAME=aloksinghkataria
+LaunchInstanceID=751AABF9-EA5D-430E-90AE-E895AAB55D1F
+__CF_USER_TEXT_ENCODING=0x0:0:0
+ITERM_SESSION_ID=w0t8p0:8C941733-EB9D-4ABB-9A7A-774811EF38B8
+SHLVL=1
+OLDPWD=/Users/aloksinghkataria/dreadnought/osgn-quant-compute/VQE
+HOMEBREW_PREFIX=/opt/homebrew
+HOMEBREW_CELLAR=/opt/homebrew/Cellar
+HOMEBREW_REPOSITORY=/opt/homebrew
+INFOPATH=/opt/homebrew/share/info:
+PS1=(vqe_env) %n@%m %1~ %#
+VIRTUAL_ENV=/Users/aloksinghkataria/dreadnought/osgn-quant-compute/VQE/vqe_env
+VIRTUAL_ENV_PROMPT=(vqe_env)
+_=/usr/bin/env
