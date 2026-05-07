@@ -1,0 +1,62 @@
+aloksinghkataria@Aloks-MacBook-Pro random-numbers % python3 calculate_pie_quant.py
+Estimated π: 3.1376
+
+5000 attempts
+
+python3 calculate_pie_classic.py
+Estimated π: 3.1536
+
+=================
+First Estimate
+3.1376
+3.1376
+
+Error:
+
+∣
+3.1376
+−
+3.1415926536
+∣
+≈
+0.00399
+∣3.1376−3.1415926536∣≈0.00399
+2️⃣ Second Estimate
+3.1536
+3.1536
+
+Error:
+
+∣
+3.1536
+−
+3.1415926536
+∣
+≈
+0.01201
+∣3.1536−3.1415926536∣≈0.01201
+3️⃣ Which One Is Better?
+Estimate	Error
+3.1376	0.00399
+3.1536	0.01201
+
+✅ 3.1376 is closer to π.
+
+4️⃣ How Much Better?
+
+Difference in error:
+
+0.01201
+−
+0.00399
+≈
+0.00802
+0.01201−0.00399≈0.00802
+
+So:
+
+3.1376 is about 0.008 closer to the true value of π.
+
+✔ Conclusion
+
+The estimate 3.1376 is about 3× more accurate than 3.1536 in this case.
